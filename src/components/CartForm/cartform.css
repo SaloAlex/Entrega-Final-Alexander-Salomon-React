@@ -1,0 +1,26 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    width: 300px;
+}
+
+.formContainer div {
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainer .btnsCart {
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.formContainer input {
+    margin-top: .5rem;
+    padding: .3rem;
+}
+
+.formContainer input:focus {
+    border: 1px solid rgb(236, 181, 78);
+    outline: 1px;
+}

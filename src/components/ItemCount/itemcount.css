@@ -1,0 +1,14 @@
+.btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnsCount button {
+    width: 30px;
+}
+
+.btnsCount span {
+    margin: 0 15px;
+}
+

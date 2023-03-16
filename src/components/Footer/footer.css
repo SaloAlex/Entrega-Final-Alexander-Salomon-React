@@ -1,0 +1,21 @@
+.footerContainer {
+    background-color:rgb(10, 10, 10);
+    padding: 1rem;
+}
+
+.footerContainer p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.footerContainer p a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.footerContainer p a:hover {
+    text-decoration: underline;
+}
+

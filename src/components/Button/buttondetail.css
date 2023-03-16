@@ -1,0 +1,16 @@
+button {
+    margin-top: 1rem;
+    width: fit-content;
+    padding: 5px;
+    background-color:whitesmoke;
+    border: .5px solid whitesmoke;
+    border-radius: 7px;
+    font-weight: bold;
+    font-family: 'Lora', serif;
+    border-color: black;
+}
+
+button:hover {
+    background-color: rgb(255, 195, 121);
+    cursor: pointer;
+}
