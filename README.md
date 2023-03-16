@@ -1,10 +1,10 @@
-# E-Commerce React por Gabriel Duarte
+# E-Commerce Curso de React js Alexander Salomon
 
 Proyecto realizado durante el curso de React Js en Coderhouse.
 
 ## Descripción:
 
-El proyecto consiste en una simulación de un e-commerce real, en este caso en el rubro de venta de celulares, las interacciones con el usuario son las siguientes:
+El proyecto consiste en una simulación de un e-commerce real, en este caso en el rubro venta de libros, las interacciones con el usuario son las siguientes:
 
 * Visualización de los productos disponibles.
 * Descripción de cada producto.
@@ -20,20 +20,13 @@ El proyecto consiste en una simulación de un e-commerce real, en este caso en e
 * Firebase 9.14.0
 * CSS
 
-<br>
-
-# Deploy
-
-### https://tienda-fronchamiar.netlify.app/
-
-<br>
 
 ## Instalación:
 
 Paso a paso de descargar el proyecto manualmente y ejecutarlo. 
 
 ```
-1. git clone https://github.com/GBLDuarte/Proyecto-React-Coder.git
+1. git clone https://github.com/SaloAlex/Entrega-Final-Alexander-Salomon-React.git
 2. npm install
 3. npm start
 ```
