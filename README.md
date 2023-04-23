@@ -1,4 +1,4 @@
-# E-Commerce Curso de React js Alexander Salomon
+# E-Commerce Curso de React js 
 
 Proyecto realizado durante el curso de React Js en Coderhouse.
 
